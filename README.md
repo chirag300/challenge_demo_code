@@ -1,6 +1,11 @@
 # Event-Based Eye Tracking
 
-This repository contains code files and data necessary for event-based eye tracking tasks. 
+Welcome to our Project Code for the Event-Based Eye Tracking Project. This readme contains all the important steps required for the execution of the code. 
+Group Members: 
+
+Chirag Seth
+Divya Naiken
+Keyan Lin
 
 ## Overview
 
