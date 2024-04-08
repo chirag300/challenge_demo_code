@@ -1,4 +1,3 @@
-```markdown
 # Event-Based Eye Tracking
 
 This repository contains code files and data necessary for event-based eye tracking tasks. 
@@ -48,7 +47,7 @@ import sys
 sys.path.append('/usr/local/lib/python3.7/site-packages/')
 
 !conda install -y -c conda-forge python=3.9
-```
+
 
 2. Clone the repository and navigate to the project directory:
 
