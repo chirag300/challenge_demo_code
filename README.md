@@ -87,10 +87,4 @@ python3 train.py --config sliced_baseline.json --num_epochs 100
 
 These are easy steps to execute the files in Google Colab.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-For more information, please refer to the [documentation](documentation/README.md).
-```
-This readme provides a detailed guide on executing the code, including steps for setting up the environment in Google Colab and accessing important files.
